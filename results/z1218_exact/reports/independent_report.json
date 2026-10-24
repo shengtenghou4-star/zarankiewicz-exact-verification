@@ -1,0 +1,19 @@
+{
+  "checker": "independent direct common-column enumeration",
+  "matrix103": {
+    "rows": 12,
+    "cols": 17,
+    "edges": 103,
+    "maxCommon": 2,
+    "worstCount": 149
+  },
+  "matrix108": {
+    "rows": 12,
+    "cols": 18,
+    "edges": 108,
+    "maxCommon": 2,
+    "worstCount": 146
+  },
+  "testedExtensions": 924,
+  "validExtensions": []
+}

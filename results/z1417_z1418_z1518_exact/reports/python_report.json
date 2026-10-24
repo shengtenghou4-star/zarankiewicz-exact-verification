@@ -1,0 +1,48 @@
+{
+  "WITNESS_116_13x18.txt": {
+    "rows": 13,
+    "cols": 18,
+    "edges": 116,
+    "max_triple_common": 2,
+    "worst_count": 216,
+    "row_degrees": [9,8,9,9,9,9,9,9,9,9,9,9,9],
+    "column_degrees": [7,6,6,7,6,6,7,6,6,7,7,7,7,6,7,6,6,6]
+  },
+  "WITNESS_118_14x17.txt": {
+    "rows": 14,
+    "cols": 17,
+    "edges": 118,
+    "max_triple_common": 2,
+    "worst_count": 268,
+    "row_degrees": [9,8,8,9,9,8,8,9,9,8,9,8,8,8],
+    "column_degrees": [8,6,7,7,6,7,7,6,7,8,7,8,7,8,7,6,6]
+  },
+  "WITNESS_124_14x18.txt": {
+    "rows": 14,
+    "cols": 18,
+    "edges": 124,
+    "max_triple_common": 2,
+    "worst_count": 288,
+    "row_degrees": [9,8,9,9,9,9,9,9,9,9,9,9,9,8],
+    "column_degrees": [8,6,6,7,7,6,7,7,6,7,8,7,8,7,8,7,6,6]
+  },
+  "WITNESS_132_15x18.txt": {
+    "rows": 15,
+    "cols": 18,
+    "edges": 132,
+    "max_triple_common": 2,
+    "worst_count": 372,
+    "row_degrees": [9,8,9,9,9,9,9,9,9,9,9,9,9,8,8],
+    "column_degrees": [8,6,6,8,8,6,8,8,6,8,8,8,8,8,8,8,6,6]
+  },
+  "degree8_extensions_of_116": [
+    "100010010010111100",
+    "000110110101010100"
+  ],
+  "degree8_extensions_after_0": [
+    "000110110101010100"
+  ],
+  "degree8_extensions_after_1": [
+    "100010010010111100"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "edges": 103,
+  "colDegrees": [
+    7,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
+  ],
+  "maxTriple": 2,
+  "tripleHistogram": {
+    "0": 14,
+    "1": 57,
+    "2": 149
+  },
+  "testedSixSubsets": 924,
+  "validExtensions": 0,
+  "extensions": []
+}
